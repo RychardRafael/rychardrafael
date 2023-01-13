@@ -8,11 +8,11 @@
 - 😄 Ele/dele 
 
 <div align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rychardrafael)](https://github.com/rychardrafael/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ (https://github-readme-stats.vercel.app/api?username=rychardrafael)](https://github.com/rychardrafael/github-readme-stats)
+ (https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+ (https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+ (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+ (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
