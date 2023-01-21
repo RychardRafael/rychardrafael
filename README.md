@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente só estou estudando 
 - 🌱 Estudando C++ e typerscript
-- 📫 Contate-me rafaelkulikova@gmail.com
+- 📫 Contate-me vorgeist@gmail.com
 - 😄 Ele/dele 
 
 <div align="center">
