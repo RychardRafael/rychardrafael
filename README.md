@@ -5,7 +5,6 @@
 - 🔭 Atualmente só estou estudando 
 - 🌱 Estudando C++ e typerscript
 - 📫 Contate-me vorgeist@gmail.com
-- 😄 Ele/dele 
 
 <div align="center">
 
